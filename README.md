@@ -41,13 +41,13 @@ This application is built using Laravel and incorporates Google’s OAuth servic
 ## Screenshots
 
 ### Login Page with Google Authentication
-![Login Page](path_to_screenshot/login_page.png)
+<img src="Screenshots/Login screen.png" alt="Web Interface" width="500"/>
 
-### Error Handling Example
-![Error Handling](path_to_screenshot/error_handling.png)
+### Dashboard
+<img src="Screenshots/dashboard.png" alt="Web Interface" width="500"/>
 
-### Database Migration Success
-![Database Migration](path_to_screenshot/database_migration.png)
+### Database
+<img src="Screenshots/Database.png" alt="Web Interface" width="500"/>
 
 ---
 
